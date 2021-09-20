@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.event-card {
+  list-style: none;
+  margin: 10px;
+
+  margin: 20px;
+}
+.image-event {
+  height: 200px;
+  width: 350px;
+}
+.event-name {
+  color: white;
+  font-size: 20px;
+  margin: 10px 0;
+}
+.event-location {
+  color: white;
+  margin: 0px;
+}
